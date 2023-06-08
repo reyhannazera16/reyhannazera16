@@ -1,4 +1,15 @@
 - 👋 Hi, I’m @reyhannazera16
+
+## 💻 **Language and Tools**
+* Visual Studio Code
+* Orange, Google Colaboratory
+* HTML, CSS, Bootstrap
+* Laravel
+* Microsoft Office
+* MySQL
+* Git/Trello
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
